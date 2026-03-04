@@ -1,5 +1,8 @@
 # Frontend Internship - Day 1 Task
 
+[🔗 Live Demo](https://prita-space.github.io/Frontend-Prita/)
+# Frontend Internship - Day 1 Task
+
 ## 👩‍💻 Author
 Prita Pillai
 
